@@ -1,0 +1,5 @@
+C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\bin\Release\HelloWorldCOMPlus.dll
+C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\bin\Release\HelloWorldCOMPlus.pdb
+C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.csprojAssemblyReference.cache
+C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.dll
+C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.pdb
