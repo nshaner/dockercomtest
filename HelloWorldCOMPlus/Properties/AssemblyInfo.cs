@@ -6,7 +6,7 @@ using System.EnterpriseServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: ApplicationName("ComPlus")]
+[assembly: ApplicationName("DockerComPlus")]
 [assembly: Description("COMPlus Assmebly")]
 [assembly: ApplicationActivation(ActivationOption.Server)]
 [assembly: ApplicationAccessControl(false)]
