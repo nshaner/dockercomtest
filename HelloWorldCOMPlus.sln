@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldCOMPlus", "HelloWorldCOMPlus\HelloWorldCOMPlus.csproj", "{B323B77C-B587-445E-B095-0081CA9B9B3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloComPlus", "HelloComPlus\HelloComPlus.csproj", "{27C97687-7A28-4020-A92A-6D8CD5EFA5D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B323B77C-B587-445E-B095-0081CA9B9B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B323B77C-B587-445E-B095-0081CA9B9B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B323B77C-B587-445E-B095-0081CA9B9B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C97687-7A28-4020-A92A-6D8CD5EFA5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C97687-7A28-4020-A92A-6D8CD5EFA5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C97687-7A28-4020-A92A-6D8CD5EFA5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C97687-7A28-4020-A92A-6D8CD5EFA5D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

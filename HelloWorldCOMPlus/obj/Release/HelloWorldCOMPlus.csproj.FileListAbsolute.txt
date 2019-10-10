@@ -3,3 +3,8 @@ C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\bin\Release\Hell
 C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.csprojAssemblyReference.cache
 C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.dll
 C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.pdb
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\bin\Release\HelloWorldCOMPlus.dll
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\bin\Release\HelloWorldCOMPlus.pdb
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.csprojAssemblyReference.cache
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.dll
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\obj\Release\HelloWorldCOMPlus.pdb
