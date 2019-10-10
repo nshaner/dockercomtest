@@ -2,3 +2,7 @@ C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\bin\Debug\HelloW
 C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\bin\Debug\HelloWorldCOMPlus.pdb
 C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\obj\Debug\HelloWorldCOMPlus.dll
 C:\Users\natha\source\repos\HelloWorldCOMPlus\HelloWorldCOMPlus\obj\Debug\HelloWorldCOMPlus.pdb
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\bin\Debug\HelloWorldCOMPlus.dll
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\bin\Debug\HelloWorldCOMPlus.pdb
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\obj\Debug\HelloWorldCOMPlus.dll
+E:\projects\dockercomplus\dockercomtest\HelloWorldCOMPlus\obj\Debug\HelloWorldCOMPlus.pdb
